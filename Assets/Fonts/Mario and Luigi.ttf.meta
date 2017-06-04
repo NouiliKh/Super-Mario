@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8f3022c558000434ea2949c01140369c
+timeCreated: 1496524152
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mario & Luigi
+  fontNames:
+  - Mario & Luigi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
