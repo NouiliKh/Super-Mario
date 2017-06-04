@@ -18,6 +18,12 @@ public class GameManager : MonoBehaviour {
     public Text CointextUi;
     public float cheerDelay;
     public GameObject faderUI;
+    public GameObject cheerConfetti;
+    public GameObject mainCam;
+    public GameObject starFireworksprfab;
+    public bool canspin=true;
+
+
     void Awake()
     {
 
@@ -61,9 +67,14 @@ public class GameManager : MonoBehaviour {
 
     public void SpinButtonPressed()
     {
-        playerCoins -= costPerSpin;
-        Debug.Log("Player Spent" + costPerSpin + "coins to spin!");
-        Machine.instance.StartSpinning();
+        if (canspin && playerCoins >= costPerSpin)
+        {
+            playerCoins -= costPerSpin;
+            CointextUi.text = playerCoins.ToString();
+            Debug.Log("Player Spent" + costPerSpin + "coins to spin!");
+            canspin = false;
+            Machine.instance.StartSpinning();
+        }
     }
 
     public void ReadyToMatch()
@@ -83,7 +94,18 @@ public class GameManager : MonoBehaviour {
 
     public void GameOver()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
+
+    }
+
+    public void starFireworks()
+    {
+        List<Vector3> positions = new List<Vector3>();
+        positions.AddRange(Machine.instance.FindStars());
+        foreach(Vector3 position in positions)
+        {
+            Instantiate(starFireworksprfab,position,starFireworksprfab.transform.rotation);
+        }
 
     }
 
@@ -95,18 +117,30 @@ public class GameManager : MonoBehaviour {
         {
             case REWARD_TYPE.WinCoins:
                 playerCoins += rewardcount;
+                GameObject Confetti = Instantiate(cheerConfetti,mainCam.transform);
+                Confetti.transform.SetParent(mainCam.transform);
                 strcheer += "You Win";
+                soundManager.instance.StopGameMusic();
+                soundManager.instance.PlayWinMoney();
                 break;
 
             case REWARD_TYPE.LoseCoins:
                 playerCoins -= rewardcount;
                 strcheer += "Oh no! You lost ";
                 CheckCoins();
+                soundManager.instance.StopGameMusic();
+                soundManager.instance.PlayLoseMoney();
                 break;
 
             case REWARD_TYPE.Multiplier:
+                starFireworks();
                 playerCoins += rewardcount;
+                
                 strcheer += "BONUS MULTIPLIER! YOU WIN!!! ";
+                soundManager.instance.PlayStars();
+                soundManager.instance.StopGameMusic();
+                soundManager.instance.playfireworks();
+
                 break;
 
             default:
@@ -174,9 +208,17 @@ public class GameManager : MonoBehaviour {
         {
             //  Debug.Log("el jayza" + rewardTotal +"el reward tdharbet *" + multiplier+" walet"+ (rewardTotal*multiplier)+'.');
             ProcessReward(REWARD_TYPE.Multiplier, rewardTotal*multiplier,FACE_TYPE.Star,starCount);
-           
-        }
+            yield return new WaitForSeconds(cheerDelay);
 
+
+        }
+        canspin = true;
+
+        if (!soundManager.instance.MusicIsPlaying())
+        {
+            soundManager.instance.PlayGameMusic();
+
+        }
     }
 
 }

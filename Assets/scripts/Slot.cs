@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Slot : MonoBehaviour {
+public class Slot : MonoBehaviour
+{
     private const float CENTER = 3.0f;
     private int slotNumber;
-    private bool isSpinning =false;
+    private bool isSpinning = false;
     private GameObject[] faces;
 
 
@@ -13,16 +14,16 @@ public class Slot : MonoBehaviour {
     {
         this.slotNumber = slotNumber;
         faces = new GameObject[Machine.instance.GetNumFaces()];
-        for(int i = 0; i < Machine.instance.GetNumFaces();i++)
+        for (int i = 0; i < Machine.instance.GetNumFaces(); i++)
         {
             faces[i] = Instantiate(Machine.instance.GetFace(i).facePrefab) as GameObject;
-            faces[i].transform.position += new Vector3((float)slotNumber,i,0);
+            faces[i].transform.position += new Vector3((float)slotNumber, i, 0);
             faces[i].transform.parent = this.gameObject.transform;
 
             FaceController facescript = faces[i].GetComponent<FaceController>();
             facescript.SetSlotRef(this);
         }
-            }
+    }
 
 
     public void StartSpinning()
@@ -40,13 +41,18 @@ public class Slot : MonoBehaviour {
         }
     }
 
+
+
+
+
+
     //traja3li eli fel centre
     public FACE_TYPE getfacetype()
     {
         FACE_TYPE faceType = 0;
-        for(int i = 0; i < Machine.instance.GetNumFaces(); i++)
+        for (int i = 0; i < Machine.instance.GetNumFaces(); i++)
         {
-            if(Mathf.Round(faces[i].transform.position.y) == CENTER)
+            if (Mathf.Round(faces[i].transform.position.y) == CENTER)
             {
                 faceType = faces[i].GetComponent<FaceController>().GetFaceType();
                 return faceType;
@@ -57,6 +63,20 @@ public class Slot : MonoBehaviour {
         return faceType;
 
     }
+
+    public Vector3 GetPosition()
+    {
+        Vector3 position = new Vector3();
+        for (int i = 0; i < Machine.instance.GetNumFaces(); i++)
+        {
+            if (Mathf.Round(faces[i].transform.position.y) == CENTER)
+            {
+                position = faces[i].GetComponent<FaceController>().GetPosition();
+            }
+        }
+        return position;
+    }
 }
+
 
 

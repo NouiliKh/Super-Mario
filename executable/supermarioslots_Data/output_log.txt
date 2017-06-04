@@ -1,0 +1,526 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DemiLib.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTween.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTween43.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTween46.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTween50.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\DOTweenPro.dll into Unity Child Domain
+- Completed reload, in  0.171 seconds
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\workshop\Super Mario\executable\supermarioslots_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.762171 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.104985 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 708.
+Total: 1.292641 ms (FindLiveObjects: 0.090864 ms CreateObjectMapping: 0.024888 ms MarkObjects: 0.488691 ms  DeleteObjects: 0.687407 ms)
+
+player 3talou 100ech yebda bihom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Spent10coins to spin!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+slots kamlou ydourou. bara matchi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ You Win25coins for matching 2 Peachs! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Spent10coins to spin!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+slots kamlou ydourou. bara matchi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ You Win20coins for matching 2 Marios! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ Oh no! You lost 50coins for having 1 Bowsers! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Spent10coins to spin!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel lel slot el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+wsel el message ech yspinni
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+slots kamlou ydourou. bara matchi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ Oh no! You lost 80coins for having 3 Bowsers! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.290666 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 456.
+Total: 4.251257 ms (FindLiveObjects: 0.043061 ms CreateObjectMapping: 0.030024 ms MarkObjects: 0.547555 ms  DeleteObjects: 3.629825 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.945777 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 424.
+Total: 2.062221 ms (FindLiveObjects: 0.039111 ms CreateObjectMapping: 0.041086 ms MarkObjects: 0.826468 ms  DeleteObjects: 1.154764 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1f60 -> priority: 1 
+  Thread -> id: 1b70 -> priority: 1 
+  Thread -> id: 39c0 -> priority: 1 
+  Thread -> id: 1630 -> priority: 1 

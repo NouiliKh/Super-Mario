@@ -12,8 +12,16 @@ public class FaceController : MonoBehaviour {
     private float stopPoint = 0;
     private float spinSpeed = 0;
     private Slot slotref;
-	// Use this for initialization
-	void Start () {
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "clicktrigger")
+        {
+            soundManager.instance.PlaySlotClick(transform.position);
+        }
+    }
+    // Use this for initialization
+    void Start () {
 		
 	}
 
@@ -84,6 +92,12 @@ public class FaceController : MonoBehaviour {
     {
         slotref = slot;
     }
+
+    public Vector3 GetPosition()
+    {
+        return transform.position;
+    }
+
 
 
     IEnumerator SlowSpinOverTime(float interval,float delta)

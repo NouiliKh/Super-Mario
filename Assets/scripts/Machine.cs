@@ -115,6 +115,8 @@ public class Machine : MonoBehaviour {
         }
     }
 
+
+
     public int[] FindMatches()
     {
         int[] faceCountArray;
@@ -127,6 +129,25 @@ public class Machine : MonoBehaviour {
                }
         return faceCountArray;
     }
+
+
+    public List<Vector3> FindStars()
+    {
+        List<Vector3> locations = new List<Vector3>();
+
+        for (int i = 0; i < numSlots; i++)
+        {
+            Slot slotscript = slots[i].GetComponent<Slot>();
+
+            if (slotscript.getfacetype() == FACE_TYPE.Star)
+            {
+                locations.Add(slotscript.GetPosition());
+            }
+
+        }
+        return locations;
+    }
+
 
     IEnumerator SlotsSlowdownTimers(float slotsSlowdownStartTime, float slotsSlowdownStartNext)
     {
